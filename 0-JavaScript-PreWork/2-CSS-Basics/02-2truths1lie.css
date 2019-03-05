@@ -1,0 +1,57 @@
+h1  {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3  {
+    color: blue;
+}
+
+p   {
+    color: red;
+    border: 1px solid black;
+}
+
+body  {
+    background: grey;
+}
+
+.box-1 {
+    border: 3px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.box-2 {
+    border: 3px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.box-3 {
+    border: 3px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.box-3 {
+    border: 3px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+
+
+
+/* 
+wrap each truth/lie in seperate divs
+    give each a border
+    curve the border
+    each background color light grey
+center everything in each div
+line each truth/lie side-by-side */ */

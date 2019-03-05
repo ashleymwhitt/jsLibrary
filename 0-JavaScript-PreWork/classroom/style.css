@@ -1,0 +1,19 @@
+table, th, td {
+    border: 5px solid black;
+    /* background-color: lightskyblue; */
+    /* border: black 3px solid; */
+    text-align-last: center;
+    margin: auto;
+  }
+
+  body {
+      background-color: lightskyblue;
+  }
+
+  #movies {
+    margin: auto;
+  }
+
+  h2 {
+      text-align: center;
+  }

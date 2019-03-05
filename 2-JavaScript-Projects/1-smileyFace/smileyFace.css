@@ -1,0 +1,35 @@
+.wrapper {
+    margin: 5px;
+}
+
+/* divs start out as boxes until we add border radius */
+.face {
+    width: 75px;
+    height: 75px;
+    background-color: yellow;
+    border-radius: 50px;
+    border: 2px solid black
+
+}
+
+.lefteye {
+    width: 7px;
+    height: 7px;
+    border: solid 1px black;
+    border-radius: 3px;
+    position: relative;
+    z-index: 1;
+    left: 23px;
+    bottom: 50px;
+    background-color: black;
+  }
+
+  .inner-left {
+    width: 4px;
+    height: 4px;
+    border: solid 1px white;
+    position: relative; /* What if this was absolute? */
+    left: 24px;
+    bottom: 52px;
+    background-color: white;
+  }

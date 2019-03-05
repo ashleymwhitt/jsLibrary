@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: red;
+    /* border: black 5px solid; */
+    /* background-color: lightgray; */
+    border-radius: 9px;
+}
+
+div {
+    border: black 3px solid;
+    border-radius: 9px;
+    background-color: gray;
+    text-align: center;
+}
+
+.sub-div {
+    background-color: lightgrey;
+    float: left;
+}
